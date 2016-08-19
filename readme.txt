@@ -6,3 +6,5 @@ Git tracks changes.
 Creating a new branch is quick.
 
 just make a difference.
+
+test stash
